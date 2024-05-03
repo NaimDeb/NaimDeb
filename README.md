@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaimDeb
 - 👀 I’m interested in Garfield
 - 🌱 I’m currently learning HTML / CSS / Javascript
-- 😄 Pronouns: Any
+- 😄 Pronouns: Garfield
 - ⚡ Fun fact: I need some water
 
 <!---
